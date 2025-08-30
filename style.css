@@ -1,3 +1,25 @@
-body{
-    background-image: url('images/photo-1549074862-6173e20d02a8.jpeg');
-}
+body {
+    background-image: url(images/photo-1549074862-6173e20d02a8.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  h1{
+    font-family: Birthstone, Georgia, 'Times New Roman', Times, serif;
+    font-size: 300px;
+    color: #D6F1FF;
+    
+  }
+
+  h2{
+    font-family: Alegreya, Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    color: #90BED6;
+  }
+
+  p{
+
+  }
+
