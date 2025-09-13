@@ -28,12 +28,4 @@ body {
     display: none
   }
 
-  .custom-scroll-icon {
-    position: fixed;
-    right: 0px;
-    bottom: 20px;
-    height: 0px;
-    opacity: 1;
-    pointer-events: none;
-  }
   
