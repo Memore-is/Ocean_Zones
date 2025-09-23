@@ -1,5 +1,5 @@
 body {
-  background-image: url(images/photo-1549074862-6173e20d02a8.jpeg);
+  background-image: url(images/misty-coastline-with-hills-and-dark-waters_upscaled.png);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -21,7 +21,7 @@ button {
 h1{
   font-family: Birthstone, Georgia, 'Times New Roman', Times, serif;
   font-size: 300px;
-  color: #d1f0fe;
+  color: #e6f7ff;
   text-shadow: 3px 1px 3px rgb(0, 25, 37);
   position: relative;
   top: -125px;
@@ -39,4 +39,7 @@ body::-webkit-scrollbar{
   display: none
 }
 
-  
+.text{
+  line-height: 7;
+  font-size: 40px;
+}
