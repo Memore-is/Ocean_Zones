@@ -25,14 +25,34 @@ body{
   .container{
     display: flex;
     flex-direction: column;
-    font-size: 3em;
     justify-content: space-evenly;
+
   }
   
   .box{
-    height: 2048;
-    width: 409;
+    height: 2048px;
+    width: auto;
     cursor: pointer;
-    color: aliceblue;
+    color: rgb(163, 178, 192);
   }
  
+  #box1{
+    color:rgb(1, 26, 39);
+  }
+
+  #box2{
+
+  }
+
+  #box3{
+
+  }
+
+  #box4{
+
+  }
+
+  #box5{
+
+  }
+
