@@ -19,8 +19,7 @@ body{
   }
 
   h2{
-    font-size: 50px;
-    
+    font-size: 65px;
   }
   
   .home{
@@ -58,29 +57,13 @@ body{
   }
   
   .box{
-    height: 2048px;
+    height: 1300px;
     width: auto;
     cursor: pointer;
     color: rgb(163, 178, 192);
   }
  
-  #box1{
-    color:rgb(1, 26, 39);
-  }
-
-  #box2{
-    align-items: end;
-  }
-
-  #box3{
-
-  }
-
-  #box4{
-
-  }
-
-  #box5{
-    color: #ffffffc4;
-  }
-
+ #box1{
+  color: rgb(25, 25, 26);
+ }
+ 
